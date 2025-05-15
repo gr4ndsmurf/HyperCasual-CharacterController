@@ -1,6 +1,9 @@
 # HyperCasual-CharacterController
 A lightweight and modular Character Controller built specifically for **Hyper Casual** games in Unity. Designed with flexibility and simplicity in mind, this controller can be easily integrated into a wide variety of projects with minimal setup.
 
+👉 [Unity Package](https://github.com/gr4ndsmurf/HyperCasual-CharacterController/releases)
+
+
 ## ✨ Features
 
 - 🚶‍♂️ Easy movement and animation system
