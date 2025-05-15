@@ -11,3 +11,7 @@ A lightweight and modular Character Controller built specifically for **Hyper Ca
 
 ## 📸 Preview
 
+
+
+https://github.com/user-attachments/assets/a64272af-2c99-4d16-bfcc-4b023d79112c
+
